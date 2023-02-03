@@ -37,3 +37,6 @@ For support, email brayanduarte.noob@protonmail.com.
 
 
 <!-- hi -->
+<!-- ACCOUNT CREDENTIALS -->
+<!-- USERNAME - @brayanduarte.noob -->
+<!-- PASSWORD - Brayann00b@2023 -->
