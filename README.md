@@ -40,3 +40,4 @@ For support, email brayanduarte.noob@protonmail.com.
 <!-- ACCOUNT CREDENTIALS -->
 <!-- USERNAME - @brayanduarte.noob -->
 <!-- PASSWORD - Brayann00b@2023 -->
+# THANK YOU :love:
