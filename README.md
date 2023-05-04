@@ -38,6 +38,6 @@ For support, email brayanduarte.noob@protonmail.com.
 
 <!-- hi -->
 <!-- ACCOUNT CREDENTIALS -->
-<!-- USERNAME - @brayanduarte.noob -->
-<!-- PASSWORD - Brayann00b@2023 -->
+<!-- USERNAME - @brayan -->
+<!-- PASSWORD - abhinav7607 -->
 # THANK YOU :love:
