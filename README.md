@@ -37,6 +37,6 @@ For support, email brayanduarte.noob@protonmail.com.
 
 
 <!-- hi -->
-<!-- username : @brayan24 -->
+<!-- username : brayan234 -->
 
 # THANK YOU ❤️
