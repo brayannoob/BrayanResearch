@@ -26,9 +26,6 @@ To deploy this project run
 https://replit.com/@ABHINAVKUMAR65/IP-LOCATOR#main.py
 
 
-## Support
-
-For support, email brayanduarte.noob@protonmail.com.
 
 
 ## License
